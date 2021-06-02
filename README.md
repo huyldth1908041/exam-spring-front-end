@@ -3,6 +3,8 @@ a simple end user app using reactjs to call to spring boot api
 ## Setup
 
 In the project directory, you  run:
+### install nodejs and install yarn via npm
+`npm install -g yarn`
 
 ### `yarn`
 
